@@ -1,7 +1,6 @@
-### Ola, im girl
+### Ola, Sou Nicolas
 
 
-**nickisz/nickisz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - Cursando Desenvolvimento de Sistemas
